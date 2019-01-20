@@ -1,21 +1,21 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
-##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :)
+##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :white_check_mark:
 
 > - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
-> - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) [DP]
+> - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) [DP] 
 > - [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) [DFS]
 > - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) [DFS]
 
-##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019)
+##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019) :white_check_mark:
 
 > - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 > - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
-> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) :thumbsup:
 
 ##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019)
 > - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
-> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
+> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) :thumbsup:
 > - [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) [DFS]
 
 ##### [Weekly Contest 114](https://leetcode.com/contest/weekly-contest-114) (Dec 8,2018)
