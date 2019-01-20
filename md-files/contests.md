@@ -9,6 +9,9 @@
 
 ##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019)
 
+> - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+> - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
+> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 
 ##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019)
 > - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
