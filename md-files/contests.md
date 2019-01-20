@@ -1,4 +1,4 @@
-[[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
+[[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
 ##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019)
 
