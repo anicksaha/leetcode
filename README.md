@@ -1,4 +1,4 @@
-# Index
+# Index :star:
 
 > [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
 
