@@ -3,8 +3,8 @@
 ##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :)
 
 > - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
-> - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
-> - [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/)
+> - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) [DP]
+> - [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) [DFS]
 > - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) [DFS]
 
 ##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019)
