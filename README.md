@@ -1,6 +1,6 @@
 # Index
 
-> - [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
+> [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
 
 _Problems:_
 
