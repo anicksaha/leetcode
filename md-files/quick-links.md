@@ -1,4 +1,4 @@
-[[Home]](https://github.com/anicksaha/uplift/blob/master/codes-leetcode/README.md)
+[[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
 
 ##### ADS (Advanced Data Structures)
