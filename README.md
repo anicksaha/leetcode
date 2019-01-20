@@ -6,7 +6,7 @@ _Problems:_
 
 > - [Starters](https://github.com/anicksaha/leetcode/blob/master/md-files/starters.md)
 > - [Adhoc](https://github.com/anicksaha/leetcode/blob/master/md-files/adhoc.md)
-> - [Data Structures](https://github.com/anicksaha/leetcode/blob/master/data-structures.md)
+> - [Data Structures](https://github.com/anicksaha/leetcode/blob/master/md-files/data-structures.md)
 > - [Dynamic Programming](https://github.com/anicksaha/leetcode/blob/master/md-files/dp.md)
 > - [Design](https://github.com/anicksaha/leetcode/blob/master/md-files/design.md)
 > - [Maths](https://github.com/anicksaha/leetcode/blob/master/md-files/maths.md)
