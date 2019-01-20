@@ -15,4 +15,4 @@ _Problems:_
 
 _Links:_
 
-> - [Quick links](https://github.com/anicksaha/leetcode/blob/master/md-files/quick-links.md)
+> [Quick links](https://github.com/anicksaha/leetcode/blob/master/md-files/quick-links.md)
