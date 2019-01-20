@@ -15,9 +15,8 @@
 
 ##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019)
 > - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
-> - []
-> - []
-> - []
+> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
+> - [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) [DFS]
 
 ##### [Weekly Contest 114](https://leetcode.com/contest/weekly-contest-114) (Dec 8,2018)
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
