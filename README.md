@@ -1,4 +1,4 @@
-# Index :star:
+# :sparkles: Index :sparkles:
 
 > [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
 
