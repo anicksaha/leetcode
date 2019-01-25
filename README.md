@@ -8,7 +8,6 @@ _Problems:_
 > - [Adhoc](https://github.com/anicksaha/leetcode/blob/master/md-files/adhoc.md)
 > - [Data Structures](https://github.com/anicksaha/leetcode/blob/master/md-files/data-structures.md)
 > - [Dynamic Programming](https://github.com/anicksaha/leetcode/blob/master/md-files/dp.md)
-> - [Maths](https://github.com/anicksaha/leetcode/blob/master/md-files/maths.md)
 > - [Others](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md)
 
 
