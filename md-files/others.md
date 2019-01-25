@@ -21,6 +21,7 @@
 ##### Backtracking
 
 > - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+> - [Word Search](https://leetcode.com/problems/word-search/description/)
 
 ##### Intervals
 
