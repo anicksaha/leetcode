@@ -1,6 +1,7 @@
 
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
+> Sections: 
 - [Design](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#design)
 - [Problem Solving Paradigm](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#ps)
 - [Maths Questions](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#maths)
