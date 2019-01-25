@@ -6,7 +6,7 @@
 - [Maths Questions](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#maths)
 
 
-## Design :trophy::
+## Design :books::
 
 > - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 > - [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/)
