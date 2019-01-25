@@ -6,13 +6,13 @@
 - [Maths Questions](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#maths)
 
 
-## Design :books::
+## Design :books:
 
 > - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 > - [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/)
 > - [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)
 
-## PS: 
+## PS :books:
 
 ##### Strings
 > - [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
@@ -26,7 +26,7 @@
 
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 
-## Maths:
+## Maths :books:
 
 ##### Adhoc
 > - [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
