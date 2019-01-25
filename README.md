@@ -10,7 +10,7 @@ _Problems:_
 > - [Dynamic Programming](https://github.com/anicksaha/leetcode/blob/master/md-files/dp.md)
 > - [Design](https://github.com/anicksaha/leetcode/blob/master/md-files/design.md)
 > - [Maths](https://github.com/anicksaha/leetcode/blob/master/md-files/maths.md)
-> - [Meh](https://github.com/anicksaha/leetcode/blob/master/md-files/meh.md)
+> - [Others](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md)
 
 
 _Links:_
