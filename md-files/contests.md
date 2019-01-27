@@ -1,14 +1,18 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
-##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :white_check_mark:
+##### [Weekly Contest 121](https://leetcode.com/contest/weekly-contest-121) (Jan 26,2019) :white_check_mark:
+> - [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
+> - [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) :star:
+> - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) [DP] :star:
+> - [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) 
 
+##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :white_check_mark:
 > - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 > - [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) [DP] 
 > - [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) [DFS] :star:
 > - [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) [DFS]
 
 ##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019) :white_check_mark:
-
 > - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 > - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 > - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) :thumbsup:
