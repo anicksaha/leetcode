@@ -9,6 +9,10 @@
 ##### State Based DP
 > - [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
 
+##### Arrays/Ad-hoc
+> - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
+> - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+
 ##### Coin Change
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
@@ -28,6 +32,5 @@
 > - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
 
 ##### Adhoc
-
 > - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 > - [Decode Ways](https://leetcode.com/problems/decode-ways/description/)
