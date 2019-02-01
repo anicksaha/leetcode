@@ -14,17 +14,19 @@
 
 ## PS :books:
 
-##### Strings
+##### Sort
 > - [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
+> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
+> - []()
+
+##### Strings
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 
 ##### Backtracking
-
 > - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 > - [Word Search](https://leetcode.com/problems/word-search/description/)
 
 ##### Intervals
-
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 
 ## Maths :books:
