@@ -17,7 +17,7 @@
 ##### Sort
 > - [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
 > - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/)
-> - []()
+> - [Sort Colors](https://leetcode.com/problems/sort-colors/description/) (Hint: Dutch National Flag problem)
 
 ##### Strings
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
