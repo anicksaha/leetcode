@@ -3,6 +3,7 @@
 ##### Adhoc v1
 > - [3 Sum](https://leetcode.com/problems/3sum/)
 > - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 > - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)
 
 ##### Adhoc v2
@@ -17,6 +18,5 @@
 > - [Cat and mouse](https://leetcode.com/problems/cat-and-mouse/description/) 
 
 ##### Hard
-
 > - [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)
 
