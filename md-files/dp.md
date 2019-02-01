@@ -28,6 +28,7 @@
 
 ##### String
 > - [Word Break](https://leetcode.com/problems/word-break/description/)
+> - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 > - [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 > - [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
 
