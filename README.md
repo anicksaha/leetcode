@@ -11,7 +11,7 @@ _Problems:_
 
 _Others_:
 > - [Java Dabblings](https://github.com/anicksaha/leetcode/blob/master/md-files/java.md)
-> - [Sorting](https://github.com/anicksaha/leetcode/blob/master/md-files/sorting.md)
+> - [Searching & Sorting](https://github.com/anicksaha/leetcode/blob/master/md-files/sorting.md)
 
 _Links:_
 
