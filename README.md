@@ -7,10 +7,11 @@ _Problems:_
 > - [Arrays/Adhoc](https://github.com/anicksaha/leetcode/blob/master/md-files/arrays.md)
 > - [Data Structures](https://github.com/anicksaha/leetcode/blob/master/md-files/data-structures.md) (LL, Trees, Trie, etc)
 > - [Dynamic Programming](https://github.com/anicksaha/leetcode/blob/master/md-files/dp.md)
-> - [Others](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md) (Sorting, Strings, Backtracking, Bit Manipulation, etc)
+> - [Others](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md) (Strings, Backtracking, Bit Manipulation, etc)
 
 _Others_:
 > - [Java Dabblings](https://github.com/anicksaha/leetcode/blob/master/md-files/java.md)
+> - [Sorting](https://github.com/anicksaha/leetcode/blob/master/md-files/sorting.md)
 
 _Links:_
 
