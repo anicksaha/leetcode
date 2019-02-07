@@ -1,4 +1,5 @@
 
+[[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
 ##### Sorting
 > - [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)
