@@ -9,3 +9,4 @@
 
 ##### Searching
 > - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) [Lower Bound & Upper Bound]
+>   - [My Solution post (With and without using STL)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/233361/C++-or-Lower-Bound-and-Upper-Bound-or-O(log(n))-or-Both-STL-and-no-STL-versions)
