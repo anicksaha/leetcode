@@ -13,6 +13,9 @@
 > - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)
 > - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 
+##### Matrix
+> - [01 Matrix](https://leetcode.com/problems/01-matrix/description/) [Can also be solved by BFS]
+
 ##### Coin Change
 > - [Minimum Coin Change](https://leetcode.com/problems/coin-change/description/)
 > - [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
