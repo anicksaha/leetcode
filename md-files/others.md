@@ -28,6 +28,8 @@
 
 ## Maths :books:
 
+> - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [Ranges of INTEGER]
+
 ##### Starters
 > - [Nth digit](https://leetcode.com/problems/nth-digit/description/)
 > - [Reach a number](https://leetcode.com/problems/reach-a-number/description/)
