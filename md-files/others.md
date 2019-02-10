@@ -40,7 +40,3 @@
 > - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 > - [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/)
 > - [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
-
-##### Bit Manipulation
-> - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
-> - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
