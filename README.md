@@ -1,7 +1,7 @@
 # Index
 > [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
 
-_Problems:_
+_Problem Solving:_
 
 > - [Starters](https://github.com/anicksaha/leetcode/blob/master/md-files/starters.md)
 > - [Arrays/Adhoc](https://github.com/anicksaha/leetcode/blob/master/md-files/arrays.md)
