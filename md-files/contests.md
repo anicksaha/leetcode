@@ -4,7 +4,7 @@
 > - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 > - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) [DFS, Union Find] :star:
 > - [Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) [Math]
-> - []()
+> - [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) [Two Pointers, Sliding Window]
 
 ##### [Weekly Contest 122](https://leetcode.com/contest/weekly-contest-122) (Feb 2,2019) :white_check_mark:
 > - [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)
