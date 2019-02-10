@@ -2,7 +2,7 @@
 
 ##### [Weekly Contest 123](https://leetcode.com/contest/weekly-contest-123) (Feb 9,2019) :white_check_mark:
 > - []()
-> - []()
+> - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) [DFS, Union Find] :star:
 > - []()
 > - []()
 
