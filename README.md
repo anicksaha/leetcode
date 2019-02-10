@@ -12,6 +12,7 @@ _Problems:_
 _Others_:
 > - [Java Dabblings](https://github.com/anicksaha/leetcode/blob/master/md-files/java.md)
 > - [Searching & Sorting](https://github.com/anicksaha/leetcode/blob/master/md-files/sorting.md)
+> - [Bit Manipulation](https://github.com/anicksaha/leetcode/blob/master/md-files/bit-manipulation.md)
 
 _Links:_
 
