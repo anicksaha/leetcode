@@ -1,3 +1,6 @@
+[[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
+
+
 ##### Bit Manipulation:
 
 > - [Binary Watch](https://leetcode.com/problems/binary-watch/description/)
