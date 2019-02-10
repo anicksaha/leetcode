@@ -1,21 +1,21 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
 ##### [Weekly Contest 123](https://leetcode.com/contest/weekly-contest-123) (Feb 9,2019) :white_check_mark:
-> - []()
-> - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) [DFS, Union Find] :star:
-> - []()
+> - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
+> - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) { DFS, Union Find } :star:
+> - [Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) {Math}
 > - []()
 
 ##### [Weekly Contest 122](https://leetcode.com/contest/weekly-contest-122) (Feb 2,2019) :white_check_mark:
 > - [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)
 > - [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)
-> - [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) [Two Pointers, Greedy, Intervals]
+> - [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) { Two Pointers, Greedy, Intervals }
 > - [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
 
 ##### [Weekly Contest 121](https://leetcode.com/contest/weekly-contest-121) (Jan 26,2019) :white_check_mark:
 > - [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 > - [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) :star:
-> - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) [DP] :star:
+> - [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) { DP } :star:
 > - [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) 
 
 ##### [Weekly Contest 120](https://leetcode.com/contest/weekly-contest-120) (Jan 19,2019) :white_check_mark:
