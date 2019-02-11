@@ -18,6 +18,7 @@
 
 ##### Strings
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+> - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)
 
 ##### Backtracking
 > - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
