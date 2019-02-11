@@ -1,12 +1,7 @@
 
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
-##### Sections: 
-- [Design Questions](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#design-books)
-- [Problem Solving Paradigm](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#ps-books)
-- [Maths Questions](https://github.com/anicksaha/leetcode/blob/master/md-files/others.md#maths-books)
-
-## Design :books:
+## Design
 
 > - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 > - [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/)
@@ -14,7 +9,7 @@
 > - [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
 > - [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 
-## PS :books:
+## PS
 
 ##### Strings
 > - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
@@ -27,7 +22,7 @@
 ##### Intervals
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 
-## Maths :books:
+## Maths
 
 > - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [Ranges of INTEGER]
 
