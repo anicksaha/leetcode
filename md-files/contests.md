@@ -1,5 +1,11 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
+##### [Weekly Contest 125](https://leetcode.com/contest/weekly-contest-125) (Feb 23,2019) :white_check_mark:
+> - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+> - [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
+> - [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
+> - [Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) :star:
+
 ##### [Weekly Contest 123](https://leetcode.com/contest/weekly-contest-123) (Feb 9,2019) :white_check_mark:
 > - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 > - [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) [DFS, Union Find] :star:
