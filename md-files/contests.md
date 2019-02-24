@@ -3,7 +3,7 @@
 ##### [Weekly Contest 125](https://leetcode.com/contest/weekly-contest-125) (Feb 23,2019) :white_check_mark:
 > - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 > - [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
-> - [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/)
+> - [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/) | Related: [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)
 > - [Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) :star:
 
 ##### [Weekly Contest 124](https://leetcode.com/contest/weekly-contest-124) (Feb 16,2019) :white_check_mark:
