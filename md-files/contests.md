@@ -61,7 +61,7 @@
 > - [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)
 > - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 > - [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)
-> - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) [Union_Find]
+> - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) [Union_Find] :star:
 
 ##### [Weekly Contest 111](https://leetcode.com/contest/weekly-contest-111) (Nov 17,2018) :white_check_mark:
 > - [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
