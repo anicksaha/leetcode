@@ -39,11 +39,11 @@
 ##### [Weekly Contest 119](https://leetcode.com/contest/weekly-contest-119) (Jan 12,2019) :white_check_mark:
 > - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 > - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
-> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) :thumbsup:
+> - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) :star:
 
 ##### [Weekly Contest 118](https://leetcode.com/contest/weekly-contest-118) (Jan 5,2019) :white_check_mark:
 > - [Powerful Integers](https://leetcode.com/problems/powerful-integers/description/)
-> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) :thumbsup:
+> - [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) :star:
 > - [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) [DFS]
 
 ##### [Weekly Contest 114](https://leetcode.com/contest/weekly-contest-114) (Dec 8,2018) :white_check_mark:
