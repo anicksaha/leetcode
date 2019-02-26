@@ -5,6 +5,7 @@
 ##### Classics
 > - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+> - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 
 ##### State Based DP
 > - [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
