@@ -5,6 +5,7 @@
 ##### Classics
 > - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 > - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+> - [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 > - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 ##### State Based DP
