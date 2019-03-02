@@ -21,6 +21,7 @@
 > - [N-Queens](https://leetcode.com/problems/n-queens/description/)
 > - [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 > - [Permutations](https://leetcode.com/problems/permutations/description/)
+> - [Permutations II](https://leetcode.com/problems/permutations-ii/description/)
 
 ##### Intervals
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
