@@ -20,6 +20,7 @@
 > - [Word Search](https://leetcode.com/problems/word-search/description/)
 > - [N-Queens](https://leetcode.com/problems/n-queens/description/)
 > - [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
+> - [Permutations](https://leetcode.com/problems/permutations/description/)
 
 ##### Intervals
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
