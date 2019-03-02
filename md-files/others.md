@@ -18,6 +18,8 @@
 ##### Backtracking
 > - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 > - [Word Search](https://leetcode.com/problems/word-search/description/)
+> - [N-Queens](https://leetcode.com/problems/n-queens/description/)
+> - [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 
 ##### Intervals
 > - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
