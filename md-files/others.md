@@ -26,7 +26,7 @@
 
 ## Maths :books:
 
-> - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [Ranges of INTEGER]
+> - [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) [Range of INTEGER]
 
 ##### Starters
 > - [Nth digit](https://leetcode.com/problems/nth-digit/description/)
