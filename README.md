@@ -14,6 +14,9 @@ _Others_:
 > - [Searching & Sorting](https://github.com/anicksaha/leetcode/blob/master/md-files/sorting.md)
 > - [Bit Manipulation](https://github.com/anicksaha/leetcode/blob/master/md-files/bit-manipulation.md)
 
+_Terms_:
+> - [Spring 2019](https://github.com/anicksaha/leetcode/blob/master/md-files/spring-2019.md)
+
 _Links:_
 
 > [Quick links](https://github.com/anicksaha/leetcode/blob/master/md-files/quick-links.md)
