@@ -4,7 +4,7 @@
 > - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 > - [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
 > - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
-> - [Video Stitching](https://leetcode.com/problems/video-stitching/description/)
+> - [Video Stitching](https://leetcode.com/problems/video-stitching/description/) [DP]
 
 ##### [Weekly Contest 125](https://leetcode.com/contest/weekly-contest-125) (Feb 23,2019) :white_check_mark:
 > - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
