@@ -6,6 +6,14 @@
 > - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)
 > - [Video Stitching](https://leetcode.com/problems/video-stitching/description/) [DP]
 
+
+##### [Weekly Contest 129](https://leetcode.com/contest/weekly-contest-129) (Mar 23,2019) :white_check_mark:
+> - [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/)
+> - [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)
+> - [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/)
+> - [Binary String With Substrings Representing 1 To N
+](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/)
+
 ##### [Weekly Contest 125](https://leetcode.com/contest/weekly-contest-125) (Feb 23,2019) :white_check_mark:
 > - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 > - [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)
