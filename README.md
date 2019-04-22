@@ -1,5 +1,6 @@
 # Index
-> [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md)
+> [Contests](https://github.com/anicksaha/leetcode/blob/master/md-files/contests.md) </br>
+> [Contests Private](https://github.com/anicksaha/leetcode/blob/master/md-files/contests-private.md)
 
 _Problem Solving:_
 
