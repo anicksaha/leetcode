@@ -6,7 +6,7 @@
 > - Connecting Cities With Minimum Cost [MST]
 > - Parallel Courses [Topo Sort]
 
-##### [Private Contest 7](https://leetcode.com/contest/private-contest-6) (Apr 14,2019) :white_check_mark:
+##### [Private Contest 6](https://leetcode.com/contest/private-contest-6) (Apr 14,2019) :white_check_mark:
 > - Number of Days In A Month
 > - Remove Vowels From a String
 > - Armstrong Number
