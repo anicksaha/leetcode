@@ -10,5 +10,5 @@
 #### Minimum Spanning Tree
 
 
-#### Topological sort
+#### Topological Sort
 
