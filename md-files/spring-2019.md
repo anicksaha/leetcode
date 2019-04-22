@@ -12,3 +12,5 @@
 
 #### Topological Sort
 
+> - [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+> - [5037. Parallel Courses](https://leetcode.com/contest/private-contest-7/problems/parallel-courses/)
