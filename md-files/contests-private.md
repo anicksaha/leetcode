@@ -12,7 +12,7 @@
 > - Armstrong Number
 > - Maximum Average Subtree
 
-##### [Private Contest 2](https://leetcode.com/contest/private-contest-2) (Apr 14,2019) :white_check_mark:
+##### [Private Contest 2](https://leetcode.com/contest/private-contest-2) (Mar 17,2019) :white_check_mark:
 > - Missing Element in Sorted Array
 > - Lexicographically Smallest Equivalent String [DFS]
 > - Longest Repeating Substring 
