@@ -7,3 +7,4 @@
 - [06/30]: [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [G4G](https://www.geeksforgeeks.org/edit-distance-dp-5/)
 - [07/06] : [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)
 - [07/07] : [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/), [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)
+- [07/07] : [Weekly-Contest-144](https://leetcode.com/contest/weekly-contest-144)
