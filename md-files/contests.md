@@ -1,5 +1,12 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
+##### [Weekly Contest 144](https://leetcode.com/contest/weekly-contest-144) (Jul 06,2019) :white_check_mark:
+> - 1,2,3,4
+
+##### [Weekly Contest 142](https://leetcode.com/contest/weekly-contest-142) (Jun 22,2019) :white_check_mark:
+> - 1,2,3
+> - [Car Pooling](https://leetcode.com/problems/car-pooling/description/), [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
+
 ##### [Weekly Contest 131](https://leetcode.com/contest/weekly-contest-131) (Apr 06,2019) :white_check_mark:
 > - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 > - [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/)
