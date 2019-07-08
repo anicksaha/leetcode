@@ -1,5 +1,8 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
+##### [Private Contest 18](https://leetcode.com/contest/private-contest-18) (Jul 07,2019) :white_check_mark: Rank - 3
+> - Stackoverflow | [Handshakes That Don't Cross](https://stackoverflow.com/questions/18076480/puzzle-n-persons-sitting-on-round-table-no-of-ways-of-handshakes-without-cross)
+
 ##### [Private Contest 7](https://leetcode.com/contest/private-contest-7) (Apr 21,2019) :white_check_mark:
 > - Largest Unique Number
 > - Path With Maximum Minimum Value [Priority_Queue]
