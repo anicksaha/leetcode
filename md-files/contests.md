@@ -2,7 +2,7 @@
 
 
 ##### [Weekly Contest 145](https://leetcode.com/contest/weekly-contest-145) (Jul 13,2019) :white_check_mark:
-> - 1 (Relative Sort Array), 
+> - 1 (Relative Sort Array | Lambdas), 
 
 ##### [Weekly Contest 144](https://leetcode.com/contest/weekly-contest-144) (Jul 06,2019) :white_check_mark:
 > - 1,2,3,4
