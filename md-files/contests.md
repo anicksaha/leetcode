@@ -5,7 +5,7 @@
 > - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Lambda fn.
 > - [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | Related: [LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 > - [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) :star:
-> - []()
+> - [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) | DP, Bitmasking :star:
 
 ##### [Weekly Contest 144](https://leetcode.com/contest/weekly-contest-144) (Jul 06,2019) :white_check_mark:
 > - 1,2,3,4
