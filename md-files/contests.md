@@ -1,7 +1,7 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
 
-##### [Weekly Contest 144](https://leetcode.com/contest/weekly-contest-145) (Jul 13,2019) :white_check_mark:
+##### [Weekly Contest 145](https://leetcode.com/contest/weekly-contest-145) (Jul 13,2019) :white_check_mark:
 > - 1 (Relative Sort Array), 
 
 ##### [Weekly Contest 144](https://leetcode.com/contest/weekly-contest-144) (Jul 06,2019) :white_check_mark:
