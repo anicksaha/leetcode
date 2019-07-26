@@ -1,5 +1,9 @@
 [[Home]](https://github.com/anicksaha/leetcode/blob/master/README.md)
 
+##### [Weekly Contest 146](https://leetcode.com/contest/weekly-contest-146) (Jul 20,2019) :white_check_mark:
+> - [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) | Arrays | nC2
+> - 2,3,4
+
 
 ##### [Weekly Contest 145](https://leetcode.com/contest/weekly-contest-145) (Jul 13,2019) :white_check_mark:
 > - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Lambda fn.
