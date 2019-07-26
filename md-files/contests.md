@@ -2,7 +2,7 @@
 
 
 ##### [Weekly Contest 145](https://leetcode.com/contest/weekly-contest-145) (Jul 13,2019) :white_check_mark:
-> - [Relative Sort Array | Lambda](https://leetcode.com/problems/relative-sort-array/description/)
+> - [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | Lambda fn.
 > - [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | Related: [LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 > - []()
 > - []()
