@@ -10,19 +10,19 @@ _Easy:_
 6. [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)
 7. [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/)
 8. [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/)
+9. [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)
 
 _Medium:_
 
 1. [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)
-2. [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)
-3. [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
-4. [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
-5. [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)
+2. [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
+3. [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
 
 _Hard:_
 
 1. [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)
 2. [262. Trips and Users](https://leetcode.com/problems/trips-and-users/description/)
+3. [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)
 
 Ref: 
 - https://www.tutorialspoint.com/sql/
