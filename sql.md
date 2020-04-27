@@ -16,4 +16,6 @@ LC Questions:
 14. [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/)
 15. [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)
 
-Ref: https://www.tutorialspoint.com/sql/
+Ref: 
+- https://www.tutorialspoint.com/sql/
+- https://www.tutorialspoint.com/hive/
